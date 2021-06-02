@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarSISDataBase", "WarSISDataBase\WarSISDataBase.csproj", "{AC13848D-6AB3-4675-90F9-19E3171E8A4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WarSISDataBaseTests", "WarSISTests\WarSISDataBaseTests.csproj", "{CE7337A7-79C8-457F-BBAC-974C6A813325}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC13848D-6AB3-4675-90F9-19E3171E8A4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC13848D-6AB3-4675-90F9-19E3171E8A4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC13848D-6AB3-4675-90F9-19E3171E8A4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC13848D-6AB3-4675-90F9-19E3171E8A4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE7337A7-79C8-457F-BBAC-974C6A813325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE7337A7-79C8-457F-BBAC-974C6A813325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE7337A7-79C8-457F-BBAC-974C6A813325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE7337A7-79C8-457F-BBAC-974C6A813325}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D2E45D-8F0F-42A0-8B16-0EB28E3D4011}
+	EndGlobalSection
+EndGlobal
